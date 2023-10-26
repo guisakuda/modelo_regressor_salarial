@@ -1,0 +1,9 @@
+lightgbm==4.1.0
+nltk==3.8.1
+matplotlib
+optuna==3.4.0
+pandas==2.0.3
+scikit-learn==1.2.2
+scipy==1.11.1
+seaborn==0.13.0
+shap==0.43.0
