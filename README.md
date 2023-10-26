@@ -18,13 +18,10 @@ O projeto seguira os seguintes passos:
 Arquivos: 
 ```
 .
-├── README.md
-├── Salary_Data_Based_country_and_race.csv
 ├── data_preprocess
 │   ├── Country.json
 │   ├── Education_Level.json
 │   ├── Gender.json
-│   ├── Job_Title_data_v1.json
 │   ├── Job_Title.json
 │   ├── Job_Title_words.json
 │   ├── Race.json
@@ -32,6 +29,14 @@ Arquivos:
 │   └── salary_preprocess_2.csv
 ├── data_explore.ipynb
 ├── data_prepare.ipynb
-└── model.ipynb
+├── model.ipynb
+├── README.md
+├── requirements.txt
+└── Salary_Data_Based_country_and_race.csv
 ```
 
+| arquivo  | descrição  |
+|--------------|--------------|
+| data_explore.ipynb  | Arquivo para analise exploratória dos dados  |
+| data_prepare.ipynb  | Arquivo para preparação das bases do modelo a partir da analise exploratória |
+| model.ipynb         | Modelo e resultados  |
