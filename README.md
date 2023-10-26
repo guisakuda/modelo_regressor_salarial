@@ -40,3 +40,4 @@ Arquivos:
 | data_explore.ipynb  | Arquivo para analise exploratória dos dados  |
 | data_prepare.ipynb  | Arquivo para preparação das bases do modelo a partir da analise exploratória |
 | model.ipynb         | Modelo e resultados  |
+| data_preprocess/*.json   | dicionário de vetoriazação para as colunas categóricas  |
