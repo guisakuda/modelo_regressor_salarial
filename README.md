@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # # modelo_regressor_salarial
+=======
+# modelo_regressor_salarial
+>>>>>>> 4f7d74ae53530dc932bfa021af551e2c9ae90d91
 
 ## Objetivo
 Este projeto tem por objetivo tentar encontrar as atribuições individuais que influenciam no valor salarial e encontrar um modelo de machine learning capaz de predizer esse valor.
