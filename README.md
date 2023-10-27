@@ -53,7 +53,7 @@ Em seguida é feito uma análise estatística das variáveis com o intuito de co
 
 ### 2. Preparação da dataset para o modelo de machine learning: [data_prepare.ipynb](https://github.com/guisakuda/modelo_regressor_salarial/blob/main/data_prepare.ipynb)
 
-Com a análise exploratória feita, nesta etapa é feita a preparação da base para o modelo de machine learning. São duas versões que diferem no tratamento da variável "Job_Title".
+Com a análise exploratória feita, nesta etapa é feita a preparação da base para o modelo de machine learning. São gerada duas versões de bases que diferem no tratamento da variável "Job_Title".
 
 ### 3. Modelo de machine learning e analise dos resultados: [model.ipynb](https://github.com/guisakuda/modelo_regressor_salarial/blob/main/model.ipynb)
 
