@@ -31,7 +31,6 @@ Arquivos:
 ├── data_prepare.ipynb
 ├── model.ipynb
 ├── README.md
-├── requirements.txt
 └── Salary_Data_Based_country_and_race.csv
 ```
 
@@ -41,3 +40,20 @@ Arquivos:
 | data_prepare.ipynb  | Arquivo para preparação das bases do modelo a partir da analise exploratória |
 | model.ipynb         | Modelo e resultados  |
 | data_preprocess/*.json   | dicionário de vetoriazação para as colunas categóricas  |
+| Salary_Data_Based_country_and_race.csv   | base original e sem alterações  |
+| data_preprocess/salary_preprocess_1.csv   | base processada v1 para o modelo  |
+| data_preprocess/salary_preprocess_2.csv   | base processada v2 para o modelo  |
+
+
+1. Analise exploratória: data_explore.ipynb
+
+Nessa primeira etapa se verifica as possiveis anomalias dos dados, como os missings, outliers e valores atípicos.
+Em seguida é feito uma análise estatística das variáveis com o intuito de conferir as distribuições e relações entre as variaveis, assim sendo possivel verificar tendências, correlações e descartar os dados de pouca importancia para o modelo.
+
+2. Preparação da dataset para o modelo de machine learning: data_prepare.ipynb
+
+Com a análise exploratória feita, nesta etapa é feita a preparação da base para o modelo de machine learning. São duas versões que diferem no tratamento da variável "Job_Title".
+
+3. Modelo de machine learning e analise dos resultados: model.ipynb
+
+Execução do modelo de regressão LightGbm, com validação cruzada k-fold e otimização dos hiperparametros.
