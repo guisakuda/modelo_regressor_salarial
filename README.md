@@ -5,7 +5,7 @@ Este projeto tem por objetivo tentar encontrar as atribuições individuais que 
 
 Dataset: Salary_Data_Based_country_and_race.csv
 
-As colunas tem os nomes autoexplicativos e cada linha corresponde a um indivíduo
+As colunas tem os nomes autoexplicativos e cada linha corresponde a um indivíduo <br>
 Age, Gender, Education_Level, Job_Title, Years_of_Experience, Country, Race e Salary
 
 O projeto seguira os seguintes passos:
