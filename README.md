@@ -44,8 +44,8 @@ Arquivos:
 | model.ipynb         | Modelo e resultados  |
 | data_preprocess/*.json   | dicionário de vetoriazação para as colunas categóricas  |
 | Salary_Data_Based_country_and_race.csv   | base original e sem alterações  |
-| data_preprocess/salary_preprocess_1.csv   | base processada v1 para o modelo  |
-| data_preprocess/salary_preprocess_2.csv   | base processada v2 para o modelo  |
+| data_preprocess/salary_preprocess_v1.csv   | base processada v1 para o modelo  |
+| data_preprocess/salary_preprocess_v2.csv   | base processada v2 para o modelo  |
 
 ___________________
 
