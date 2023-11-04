@@ -60,4 +60,4 @@ Com a análise exploratória feita, nesta etapa é feita a preparação da base 
 
 ### 3. Modelo de machine learning e analise dos resultados: [model.ipynb](https://github.com/guisakuda/modelo_regressor_salarial/blob/main/model.ipynb)
 
-Execução do modelo de regressão LightGbm, com validação cruzada k-fold e otimização dos hiperparametros.
+Execução do modelo de regressão LightGbm, Xgboost e DecissionTree com validação cruzada k-fold e otimização dos hiperparametros.
