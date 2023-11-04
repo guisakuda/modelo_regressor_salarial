@@ -18,6 +18,7 @@ O projeto seguira os seguintes passos:
 Arquivos: 
 ```
 .
+├── Salary_Data_Based_country_and_race.csv
 ├── data_preprocess
 │   ├── Country.json
 │   ├── Education_Level.json
@@ -25,13 +26,15 @@ Arquivos:
 │   ├── Job_Title.json
 │   ├── Job_Title_words.json
 │   ├── Race.json
-│   ├── salary_preprocess_1.csv
-│   └── salary_preprocess_2.csv
+│   ├── salary_preprocess_v1.csv
+│   └── salary_preprocess_v2.csv
 ├── data_explore.ipynb
 ├── data_prepare.ipynb
 ├── model.ipynb
 ├── README.md
-└── Salary_Data_Based_country_and_race.csv
+├── requirements.txt
+└── static
+    └── processa_dados.png
 ```
 
 | arquivo  | descrição  |
